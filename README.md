@@ -1,3 +1,2 @@
-# egg-management
-A website  for managing eggs collection
-created by sammy kiptoo
+# egg- management -website
+a website  for  managing eggs collections created by sammy kiptoo
